@@ -10,7 +10,7 @@
 <body>
 	<h2>학생 회원 가입</h2>
 	<hr>
-	<form action="joinOk">
+	<form action="joinOk2">
 		아이디 <input type="text" name="id"> <br>
 		비밀번호 <input type="password" name="pw"> <br>
 		이름 <input type="text" name="name"> <br>
